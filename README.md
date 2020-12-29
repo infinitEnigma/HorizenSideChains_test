@@ -28,8 +28,13 @@ Required steps:
 For more info: https://hde.horizen.global/tasks"
 
 ### **Here we have all the steps needed for the side chain creation, explained:** ###
+*Test is done on a Windows 10, i5-7500*
 
-First you need to create account:
+First you need to download and install wallet 
+
+https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/download/desktop-v1.2.8-beta/Sphere_by_Horizen-1.2.8-beta.exe,
+
+and create account:
 ![Create account](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/CreateAcc.png)
 
 After creating account you should wait for sync to finish. You can also start using wallet and create new address, but if so, you can lose that address - happened to me, so you will have to make new one (best after syncing is finished). 
