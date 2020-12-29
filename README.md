@@ -73,10 +73,16 @@ enter these commands after starting java:
 ![bootstraping](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/start-bootstrapping2.png)
 !!! Copy these keys - you gonna need them later !!!
 
-Now to the Sidechaain creation
+Now to the Sidechain creation
 ![SideChainCreation](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/sidechain-creation.png)
 ![SideChainTransaction01](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/sidechain-transaction.png)
 ![SideChainConfirmation](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/sidechain-creation_wait-confirmation.png)
 
-end transaction:
+end the transaction:
 ![SideChainTransaction02](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/sidechain-transaction01.png)
+
+confirmation:
+![SideChainTransaction03](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/sidechain-transaction04.png)
+
+## Conclusion ##
+This was great experience, easy to follow instructions, good and clear interface and steady app, the only problem is syncing when internet isn't fast enough, it can last for days
