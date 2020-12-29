@@ -40,3 +40,12 @@ While the wallet is syncing you should prepare your environment as mentioned her
 
 Check if you have adequate Java and Maven installed:
 ![check your java and maven!](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/java-and-maven.png)
+
+Install Scala from: https://www.scala-lang.org/download/
+
+Clone Zendoo SDK, 
+`cd Sidechains-SDK`,
+and finally `mvn package`:
+
+![Zendoo](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/cloning%20Zendoo%20SDK.png)
+
