@@ -1,5 +1,5 @@
 # Horizen SideChains Test
-Test sidechain functionalities with Sphere by Horizen 2.0.0
+## Test sidechain functionalities with Sphere by Horizen 2.0.0
 
 The goal is to test the new 'Sphere by Horizen' wallet 
 in creating side chains and the interactions between side chains and the main chain. 
@@ -29,3 +29,5 @@ For more info: https://hde.horizen.global/tasks"
 
 **Here we have all the steps needed for side chain creation explained:**
 
+First you need to create account:
+![Create account](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/CreateAcc.png)
