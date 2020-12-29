@@ -36,5 +36,7 @@ After creating account you should wait for sync to finish. You can also start us
 Also if you close your wallet during syncing, you may experience "process already started" or similar when starting again, then you should kill/stop that proces (_zend) and start the app again.
 
 While the wallet is syncing you should prepare your environment as mentioned here:
-
 ![Prepare your environment](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/requirements.jpg)
+
+Check if you have adequate Java and Maven installed:
+![check your java and maven!](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/java-and-maven.png)
