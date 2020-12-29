@@ -60,4 +60,9 @@ Just wait for the wallet to sync, create account and add funds from test faucet:
 
 ![wallet_synced](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/synced.png)
 
-
+:tada:
+Now, if you've reached to this point, you're ready for the creation of your first SideChain:
+![SideChainCreation](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/sidechain-creation.png)
+![SideChainTransaction01](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/sidechain-transaction.png)
+![SideChainConfirmation](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/sidechain-creation_wait-confirmation.png)
+![SideChainTransaction02](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/sidechain-transaction01.png)
