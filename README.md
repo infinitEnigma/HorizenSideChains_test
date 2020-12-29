@@ -57,6 +57,7 @@ Just wait for the wallet to sync, create account and add funds from test faucet:
 
 ![syncing](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/syncing.jpg)
 ![ClaimFreeZEN](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/claim-free-ZEN.png)
+
 ![wallet_synced](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/synced.png)
 
 
