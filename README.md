@@ -62,7 +62,21 @@ Just wait for the wallet to sync, create account and add funds from test faucet:
 
 :tada:
 Now, if you've reached to this point, you're ready for the creation of your first SideChain:
+
+First you need to open Command Promt and navigate to your Zendoo-SDK folder. 
+
+enter this command: 
+`java -jar tools/sctool/target/sidechains-sdk-scbootstrappingtools-0.2.6.jar` *scbootstrappingtools-x.x.x.jar* depending on your version
+of the tools.
+
+enter these commands after starting java:
+![bootstraping](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/start-bootstrapping2.png)
+!!! Copy these keys - you gonna need them later !!!
+
+Now to the Sidechaain creation
 ![SideChainCreation](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/sidechain-creation.png)
 ![SideChainTransaction01](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/sidechain-transaction.png)
 ![SideChainConfirmation](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/sidechain-creation_wait-confirmation.png)
+
+end transaction:
 ![SideChainTransaction02](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/sidechain-transaction01.png)
