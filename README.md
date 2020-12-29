@@ -26,3 +26,6 @@ Required steps:
 * Produce a detailed report that includes screenshots of the different steps.
 
 For more info: https://hde.horizen.global/tasks"
+
+**Here we have all the steps needed for side chain creation explained:**
+
