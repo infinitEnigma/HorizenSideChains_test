@@ -46,6 +46,8 @@ Install Scala from: https://www.scala-lang.org/download/
 Clone Zendoo SDK, 
 `cd Sidechains-SDK`,
 and finally `mvn package`:
-
 ![Zendoo](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/cloning%20Zendoo%20SDK.png)
+
+This process could take a while depending on your intenet speed (>3 hours what I got), you may be prompt to enable this proocess trough your firewall in the middle of downloading/installing, so be cautious.
+![Zendoo-package](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/package%20-%20Zendoo%20SDK.png)
 
