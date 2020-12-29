@@ -33,3 +33,7 @@ First you need to create account:
 ![Create account](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/CreateAcc.png)
 
 After creating account you should wait for sync to finish. You can also start using wallet and create new address, but if so, you can lose that address - happened to me, so you will have to make new one (best after syncing is finished). If you close your wallet during syncing, you may experience "process already started" or similar when starting again, then you should kill/stop that proces (_zend) and start the app again.
+
+While the wallet is syncing you should prepare your environment as mentioned here:
+
+![Prepare your environment](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/requirements.jpg)
