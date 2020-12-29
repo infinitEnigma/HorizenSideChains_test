@@ -51,3 +51,9 @@ and finally `mvn package`:
 This process can take a while depending on your intenet speed (>3 hours what I got), you may be prompt to enable this proocess trough your firewall in the middle of downloading/installing, so be cautious.
 ![Zendoo-package](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/package%20-%20Zendoo%20SDK.png)
 
+If this process is finshed similar as above, you are almost ready for your first sidechain creation! :tada:
+
+Just wait for the wallet to sync, create account and add funds from test faucet:
+
+![ClaimFreeZEN](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Assets/claim-free-ZEN.png)
+
