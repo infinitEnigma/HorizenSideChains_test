@@ -73,4 +73,11 @@ generate more blocks until all transactions are confirmed
 
 ![SideChain](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Create%20a%20new%20sidechain%20%23151/Assets/VB-installing-SC29.png)
 
-[Data generated from this test could be found here :smiley:]()
+Creating sidechain with manualy doing copy/paste of keys and other data was painfull job to do, with many posibilities to make a mistake.
+This articl was very useful:
+https://blog.horizen.io/horizen-sidechains-zen-transfer/
+After I did finish the test I had to find a better way for doing this with some automated scrypt. Had to read many docs and papers to get more familiar with the technology behind this project, and was just about to start on creating one when this article took my attention:
+https://medium.com/chain-accelerator/how-to-install-a-horizen-node-and-their-fully-decentralized-zendoo-sidechain-e095ccb0a8b8
+
+I have tested the scrypt [data generated from this test can be found here :smiley:](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Create%20a%20new%20sidechain%20%23151/generatedData/generatedKeys.txt)
+
