@@ -705,7 +705,6 @@ use sc_send which requires the parameters for an address of the sidechain (publi
 **an additional block must be generated for the modification to be taken into account**
 `curl -X POST "http://127.0.0.1:9085/block/forgingInfo" -H "accept:applicn" -H "Content-Type:application/json"`
 
-**OK, but at this point I got in the problem with the time stamps of the genesis blocks and it was imposible to mine the block on the side chain. 
-tried to fix this, reinstalled the whole thing but with no luck. This was on windows 10 with many previously installed blockhains and tools ..., so 
-VM with previously installed Ubuntu 18 and everything is done smoothly ... [part two - here](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Create%20a%20new%20sidechain%20%23151/TEST-part2.md)
+**OK, but at this point I got into the problem with the time stamps of the genesis blocks and it was imposible to mine the block on the side chain.** 
+tried to fix this, reinstalled the whole thing but with no luck. This was on windows 10 with many previously installed blockhains and tools, but maybe it was because of the binaries i was using for zend ..., so VM with previously installed Ubuntu 18 and everything is done smoothly ... [part two - here](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Create%20a%20new%20sidechain%20%23151/TEST-part2.md)
 
