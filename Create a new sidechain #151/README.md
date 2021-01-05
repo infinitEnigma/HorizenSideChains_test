@@ -18,6 +18,49 @@ Required steps:
 Please note: the report can be submitted in various ways. We're also in the process of adding file attachment support to our bounty claim form - there it will be possible to upload your report in .pdf, .docx or .md. For the time being, please submit the report by providing a link to a document, either a private gist, markdown file in a private repo or a Google Docs.
 Include any feedback you might have related to your test (recommendations, areas of improvements, …)
 ____________________________________________________________________________________________________
+***This test has been done on different machines: Ubuntu 16 and 18, Ubuntu server 16,18 and 20, and Windows 10 (windows test didn't fully past!)***
+(screenshots are from different tests, check the assets folder for more) 
+
+**Building zend_oo**
+
+*Install system updates and prerequisites.* 
+```
+$ sudo apt -y update 
+$ sudo apt -y upgrade  
+$ sudo apt-get -y install build-essential pkg-config libc6-dev m4 g++-multilib autoconf libtool ncurses-dev unzip git python zlib1g-dev bsdmainutils automake curl wget
+Here are some screenshots from the zend_oo building process.
+```
+
+*clone the source repository and build zend_oo.*
+```
+$ git clone https://github.com/ZencashOfficial/zend_oo.git
+$ cd zend_oo
+$ ./zcutil/build.sh -j$(nproc)
+```
+![Build zend_oo](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Create%20a%20new%20sidechain%20%23151/Assets/building_zend13.png)
+
+
+*download the necessary files.* 
+`$ ./zcutil/fetch-params.sh`
+*on ubuntu 16 server*
+![Build zend_oo](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Create%20a%20new%20sidechain%20%23151/Assets/building_zend11.png)
+*on ubuntu 20 server*
+![Build zend_oo](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Create%20a%20new%20sidechain%20%23151/Assets/building_zend16.png)
+
+
+*Starting zend for the first time will create the configuration file.*
+`$ ./src/zend`
+![Build zend_oo](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Create%20a%20new%20sidechain%20%23151/Assets/building_zend18.png)
+
+*for the first time will create the configuration file. then edit it*
+`$ vi ../.zen/zen.conf`
+![Build zend_oo](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Create%20a%20new%20sidechain%20%23151/Assets/building_zend19.png)
+
+*zend_oo server is ready!*
+![Build zend_oo](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Create%20a%20new%20sidechain%20%23151/Assets/building_zend20.png)
+
+**Building Sidechain-SDK**
+
 
 ![Build](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Create%20a%20new%20sidechain%20%23151/Assets/mvn%20package.png)
 
