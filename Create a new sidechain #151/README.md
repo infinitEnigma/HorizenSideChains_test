@@ -42,8 +42,11 @@ $ ./zcutil/build.sh -j$(nproc)
 
 *download the necessary files.* 
 `$ ./zcutil/fetch-params.sh`
+
 *on ubuntu 16 server*
 ![Build zend_oo](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Create%20a%20new%20sidechain%20%23151/Assets/building_zend11.png)
+
+
 *on ubuntu 20 server*
 ![Build zend_oo](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Create%20a%20new%20sidechain%20%23151/Assets/building_zend16.png)
 
@@ -52,12 +55,14 @@ $ ./zcutil/build.sh -j$(nproc)
 `$ ./src/zend`
 ![Build zend_oo](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Create%20a%20new%20sidechain%20%23151/Assets/building_zend18.png)
 
-*for the first time will create the configuration file. then edit it*
+*then edit it*
 `$ vi ../.zen/zen.conf`
 ![Build zend_oo](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Create%20a%20new%20sidechain%20%23151/Assets/building_zend19.png)
 
+
 *zend_oo server is ready!*
 ![Build zend_oo](https://github.com/infinitEnigma/HorizenSideChains_test/blob/main/Create%20a%20new%20sidechain%20%23151/Assets/building_zend20.png)
+
 
 **Building Sidechain-SDK**
 
