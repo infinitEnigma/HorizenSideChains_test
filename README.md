@@ -5,8 +5,8 @@ The goal is to test the new 'Sphere by Horizen' wallet
 in creating side chains and the interactions between side chains and the main chain. 
 
 Here is the original call:
-
-"HDE task
+```
+HDE task
 
 Starting points:
 
@@ -15,7 +15,8 @@ https://github.com/HorizenOfficial/zend_oo/blob/sidechains_testnet/README.md
 
 Required steps:
 
-* Download Sphere by Horizen 2.0.0: https://github.com/HorizenOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/tag/desktop-v2.0.0-beta-sidechain-testnet.
+* Download Sphere by Horizen 2.0.0: 
+https://github.com/HorizenOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/tag/desktop-v2.0.0-beta-sidechain-testnet.
 
 * Obtain free test ZEN (tZEN) via the Horizen Early Adopter Program (HEAP): https://heap.horizen.global/.
 
@@ -25,8 +26,8 @@ Required steps:
 
 * Produce a detailed report that includes screenshots of the different steps.
 
-For more info: https://hde.horizen.global/tasks"
-
+For more info: https://hde.horizen.global/tasks
+```
 ### **Here we have all the steps needed for the side chain creation, explained:** ###
 *Test is done on a Windows 10, i5-7500*
 
