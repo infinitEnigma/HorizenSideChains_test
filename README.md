@@ -5,7 +5,7 @@ The goal is to test the new 'Sphere by Horizen' wallet
 in creating side chains and the interactions between side chains and the main chain. 
 
 Here is the original call:
-```
+***********************************************************************************
 HDE task
 
 Starting points:
@@ -27,7 +27,7 @@ https://github.com/HorizenOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/
 * Produce a detailed report that includes screenshots of the different steps.
 
 For more info: https://hde.horizen.global/tasks
-```
+*************************************************************************************
 ### **Here we have all the steps needed for the side chain creation, explained:** ###
 *Test is done on a Windows 10, i5-7500*
 
