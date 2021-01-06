@@ -69,7 +69,7 @@ Just wait for the wallet to sync, create account and add funds from test faucet:
 :tada:
 Now, if you've reached to this point, you're ready for the creation of your first SideChain:
 
-First you need to open Command Promt and navigate to your Sidechain-SDK folder. 
+First you need to open Command Prompt and navigate to your Sidechain-SDK folder. 
 
 enter this command: 
 `java -jar tools/sctool/target/sidechains-sdk-scbootstrappingtools-0.2.6.jar` *scbootstrappingtools-x.x.x.jar* depending on your version
