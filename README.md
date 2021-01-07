@@ -31,7 +31,7 @@ For more info: https://hde.horizen.global/tasks
 ### **Here we have all the steps needed for the side chain creation, explained:** ###
 *Test is done on a Windows 10, i5-7500*
 
-First you need to download and install wallet 
+First you need to download and install the wallet 
 
 https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/download/desktop-v1.2.8-beta/Sphere_by_Horizen-1.2.8-beta.exe,
 
