@@ -82,7 +82,7 @@ The last step is to wait for the confirmation from the main chain, ~3 days (2 ep
 
 *There should be a way to track the status of this transaction in more details (like the number of the blocks left, or the timer maybe)*. 
 *************************************************************************************
-![Cobalt to sphere transaction](Assets/mr-bean-waiting.gif)
+![Cobalt to sphere transaction](Assets/mr-bean-waiting3.gif)
 
 [And after xxxx confirmations on tokenmint sidechain the transaction finaly arrived to the mainnet:
 * [confirmed transaction from cobalt TZEN on main testnet network](...)]
