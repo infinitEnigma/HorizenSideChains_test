@@ -31,7 +31,7 @@ https://github.com/HorizenOfficial/cobalt-wallet/releases/latest
 
 - [x] Perform sidechain transfer
 
-- [-] Perform a Backward Transfer from the sidechain to the mainchain.
+- [x] Perform a Backward Transfer from the sidechain to the mainchain.
 
 - [x] Produce a detailed report that includes screenshots of the different steps.
 
